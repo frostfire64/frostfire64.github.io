@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    frostfire64 -- "webdeveloper" -- i don't have a twitter
+
+# THANKS
+
+    the glorious motherfucker who had made - http://bettermotherfuckingwebsite.com/
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
